@@ -1,22 +1,42 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Development of a 10 m Resolution Maize and Soybean Map Over China<br />; Chicago, Illinois, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Crop Type and Yield Mapping Using Long-term Satellite Observations, Weather and Field Data<br />; Chicago, Illinois, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Testing global stilling with ERA5 reanalysis data<br />; Denver, Colorado, USA",
+    39.7392364,
+    -104.984862
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Decadal Changes in Relative Aeolian Transport Potential in Major Global Dust Source Regions<br />; Las Cruces, New Mexico, USA",
+    32.3140354,
+    -106.779807
+  ],
+  [
+    "Advancing 10-m Crop Mapping Using All Sentinel-2 Observations over the Contiguous United States<br />; Washington, D.C., USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "Mapping multiple crops of multiple seasons: a 30 m national crop map of Paraguay derived from the Harmonized Landsat and Sentinel-2 (HLS) data and stratified random sampling<br />; Washington, D.C., USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "Detecting Oil and Gas Land Dynamics in the Permian Basin by Using Deep Learning and Very High-resolution Aerial Images<br />; Washington, D.C., USA",
+    38.8950368,
+    -77.0365427
+  ],
+  [
+    "Defining and Mapping Tropical Dryland Woody Cover: A Comparative Study using Drone Data in Senegal<br />; Washington, D.C., USA",
+    38.8950368,
+    -77.0365427
   ]
 ];
