@@ -26,6 +26,9 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
+  - title: "Footprint"
+    url: /footprint/ 
+
   - title: "CV"
     url: /cv/
     
