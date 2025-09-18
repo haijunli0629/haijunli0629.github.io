@@ -306,6 +306,35 @@ def parse_talks(talks_dir):
     
     return talks
 
+def parse_fieldwork(fieldwork_dir):
+    """Parse fieldwork from the _fieldwork directory."""
+    fieldwork = []
+    
+    if not os.path.exists(fieldwork_dir):
+        return fieldwork
+    
+    for fieldwork_file in sorted(glob.glob(os.path.join(fieldwork_dir, "*.md"))):
+        with open(fieldwork_file, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Extract front matter
+        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = yaml.safe_load(front_matter_match.group(1))
+            
+            # Extract fieldwork details
+            fieldwork_entry = {
+                "course": front_matter.get('title', ''),
+                "institution": front_matter.get('venue', ''),
+                "date": front_matter.get('date', ''),
+                "role": front_matter.get('type', ''),
+                "description": front_matter.get('excerpt', '')
+            }
+            
+            fieldwork.append(fieldwork_entry)
+    
+    return fieldwork
+
 def parse_teaching(teaching_dir):
     """Parse teaching from the _teaching directory."""
     teaching = []
@@ -394,6 +423,9 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     
     # Add teaching
     cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
+
+    # Add teaching
+    cv_json["fieldwork"] = parse_fieldwork(os.path.join(repo_root, "_fieldwork"))
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))

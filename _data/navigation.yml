@@ -15,7 +15,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Fieldwork"
+    url: /fieldwork/  
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -29,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

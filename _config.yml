@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "" # "Haijun Li / Site Title"
-title_separator          : # "-"
+title                    : "Haijun Li" # "Haijun Li / Site Title"
+title_separator          : "-"
 name                     : &name "Haijun Li"
 description              : &description "Haijun's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://haijunli0629.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://literate-rotary-phone-v6j9554xgvwhqxw-4001.app.github.dev # https://haijunli0629.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haijunli0629/haijunli0629.github.io"
@@ -25,8 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haijun Li"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate, Department of Geographical Science, University of Maryland"
+  pronouns         : # example: "she/her" 
+  position         : "PhD Candidate" 
+  department       : "Department of Geographical Science"
+  university       : "University of Maryland" 
+  bio              : ""
   location         : "College Park"
   employer         : "University of Maryland"
   uri              : # URL
@@ -222,6 +225,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  fieldwork:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -257,6 +263,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+# _fieldwork
+  - scope:
+      path: ""
+      type: fieldwork
     values:
       layout: single
       author_profile: true

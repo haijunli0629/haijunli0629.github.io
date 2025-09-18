@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Geographical Sciences, University of Maryland, 2025 (expected)
+* Ph.D. in Geosciences, Texas Tech University, 2020-2022 (transferred)
+* M.S. in Cartography and Geographical Information System, Wuhan University, 2017
+* B.S. in Geographical Information System, Wuhan University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022/08 - present: Graduate Research Assistant, University of Maryland, College Park, USA
+* 2020/08 - 2022/08: Graduate Research Assistant, Texas Tech University, Lubbock, USA
+* 2017/07 - 2020/06: Senior Software Engineer, NetEase Network Co. Ltd., Hangzhou, China
+* 2016/08: Intern of Software Engineer, Fiberhome Technologies Co. Ltd., Wuhan, China
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java, Bash, Python, R, C++, MATLAB, IDL
+* PostgreSQL, MySQL, MongoDB, Oracle, HDFS
+* ENVI, ERDAS, ArcGIS, QGIS
+* Linux, High-Performance Computing (HPC); Satellite Image Processing, Mapping, Visualization, Spatial Analysis
 
 Publications
 ======
@@ -47,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -59,6 +48,26 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Honors and Awards
+=====
+* 2024, Excellence in Graduate Research Award, 2nd place, University of Maryland
+* 2022, Study Abroad Competitive Scholarship, Texas Tech University
+* 2022, Gary Elbow Scholarship, Texas Tech University
+* 2021, Geography Excellence Scholarship, Texas Tech University
+* 2021, General Geosciences Scholarship, Texas Tech University
+* 2020, Geography Excellence Scholarship, Texas Tech University
+* 2020, General Geosciences Scholarship, Texas Tech University
+* 2016, Graduate Fellowship, Wuhan University
+* 2015, Graduate Fellowship, Wuhan University
+* 2014, Excellent Bachelor’s Degree Dissertation Award in Hubei Province
+* 2014, Outstanding Undergraduate, Wuhan University
+* 2013, Outstanding Student Award, Wuhan University
+* 2013, Guang-Hua Scholarship, Wuhan University
+* 2013, The Third Prize Scholarship, Wuhan University
+* 2012, National Encouragement Scholarship, Wuhan University
+* 2012, The First Prize Scholarship, Wuhan University
+* 2012, Merit Student Award, Wuhan University
+* 2011, National Encouragement Scholarship, Wuhan University
+* 2011, Merit Student Award, Wuhan University
+
+
