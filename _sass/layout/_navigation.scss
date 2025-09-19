@@ -204,14 +204,23 @@
 
   .visible-links {
     display: table;
+    // display: flex;
+    // justify-content: flex-end;
+    // gap: 1rem; /* optional: spacing between items */
+    // list-style: none; /* remove default bullets */
+    // margin: 0;
+    // padding: 0;
+    
 
     li {
       display: table-cell;
       vertical-align: middle;
+      display: inline-block;
 
       &:first-child {
-        font-weight: bold;
+        // font-weight: bold;
         text-wrap: wrap;
+        margin-left:14.5em;
 
         a {
           margin-left: 0;
