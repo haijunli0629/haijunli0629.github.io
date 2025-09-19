@@ -29,6 +29,7 @@
     		var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
     			maxClusterRadius: 20, // 80
+                zoomToBoundsOnClick: false // prevent zooming on cluster click
     			});
     		for (var i = 0; i < addressPoints.length; i++) {
     			var a = addressPoints[i];
