@@ -25,9 +25,9 @@ Work experience
   
 Skills
 ======
-* Python, Java, Bash, Python, R, C++, MATLAB, IDL
+* Python, Java, Bash, R, C++, MATLAB, IDL
 * PostgreSQL, MySQL, MongoDB, Oracle, HDFS
-* ENVI, ERDAS, ArcGIS, QGIS
+* ENVI, ArcGIS, QGIS
 * Linux, High-Performance Computing (HPC); Satellite Image Processing, Mapping, Visualization, Spatial Analysis
 
 Publications
