@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Geographical Sciences at the University of Maryland (UMD), where I am working with <a href="https://geog.umd.edu/facultyprofile/song/xiaopeng" target="_blank" rel="noopener noreferrer">Dr. Xiaopeng Song</a> and <a href="https://geog.umd.edu/facultyprofile/hansen/matthew-c" target="_blank" rel="noopener noreferrer">Dr. Matthew Hansen</a> at the <a href="https://glad.umd.edu/" target="_blank" rel="noopener noreferrer">Global Land Analysis and Discovery (GLAD)</a> team.
+I am a PhD candidate in the Department of Geographical Sciences at the University of Maryland (UMD), where I am working with <a href="https://scholar.google.com/citations?user=SIQ6ND4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Xiaopeng Song</a> and <a href="https://scholar.google.com/citations?user=vgIRE-4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Matthew Hansen</a> at the <a href="https://glad.umd.edu/" target="_blank" rel="noopener noreferrer">Global Land Analysis and Discovery (GLAD)</a> team.
 
 My research interests focus on monitoring agricultural sustainability through sample-based and satellite-based approaches, including operational large-scale satellite data processing systems, high-resolution crop type mapping, crop extent and phenology tracking, and crop yield forecasting. Currently, I am working on operational high-resolution crop type mapping by combining machine learning, field surveys, and various satellite data, including Sentinel-2, Landsat, MODIS, and the Harmonized Landsat Sentinel-2 (HLS).
 
