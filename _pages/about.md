@@ -17,7 +17,7 @@ Before joining UMD in 2022, I studied for two years in the Geosciences Doctoral 
 
 Updates
 ======
-* **Oct. 2025**: I am honored to receive the Jacob K. Goldhaber Travel Grant from the Graduate School at the University of Maryland.
+* **Oct. 2025**: I am honored to receive the **Jacob K. Goldhaber Travel Grant** from the Graduate School at the University of Maryland.
   
 * **Feb. 2025**: My co-authored paper about machine learnning in crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2024.114585" target="_blank" rel="noopener noreferrer">*"Accounting for spatial variability with geo-aware random forest: A case study for US major crop mapping"*</a>
 
