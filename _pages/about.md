@@ -17,6 +17,8 @@ Before joining UMD in 2022, I studied for two years in the Geosciences Doctoral 
 
 Updates
 ======
+* **Nov. 2025**: I gave an oral presentation on <i>"Quantifying the Benefits of 10-m Crop Mapping for Industrial Agriculture Over the United States"</i> at the MAD-AAG 2025 conference in Arnold, MD, USA.
+
 * **Oct. 2025**: I am honored to receive the **Jacob K. Goldhaber Travel Grant** from the Graduate School at the University of Maryland.
   
 * **Feb. 2025**: My co-authored paper about machine learnning in crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2024.114585" target="_blank" rel="noopener noreferrer">*"Accounting for spatial variability with geo-aware random forest: A case study for US major crop mapping"*</a>
@@ -31,7 +33,7 @@ Updates
 
 * **May. 2023**: My first-author paper about smallholder crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2023.113623" target="_blank" rel="noopener noreferrer">*"Development of a 10-m resolution maize and soybean map over China: Matching satellite-based crop classification with sample-based area estimation"*</a>
 
-* **Dec. 2022**: I gave a oral presentation about 10-m crop mapping in China in <i>AUG 2022</i> in Chicago, IL, USA. <a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1079673" target="_blank" rel="noopener noreferrer">*"Development of a 10 m Resolution Maize and Soybean Map Over China"*</a>
+* **Dec. 2022**: I gave an oral presentation about 10-m crop mapping in China in <i>AUG 2022</i> in Chicago, IL, USA. <a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1079673" target="_blank" rel="noopener noreferrer">*"Development of a 10 m Resolution Maize and Soybean Map Over China"*</a>
 
 * **Nov. 2022**: My co-authored paper about long-terrm soybean yield modeling is published online on <i>Agricultural and Forest Meteorology</i>. <a href="https://doi.org/10.1016/j.agrformet.2022.109186" target="_blank" rel="noopener noreferrer">*"Annual 30 m soybean yield mapping in Brazil using long-term satellite observations, climate data and machine learning"*</a>
 
