@@ -50,6 +50,7 @@ Teaching
   
 Honors and Awards
 =====
+* 2025, Jacob K. Goldhaber Travel Grant, University of Maryland.
 * 2024, Excellence in Graduate Research Award, 2nd place, University of Maryland
 * 2022, Study Abroad Competitive Scholarship, Texas Tech University
 * 2022, Gary Elbow Scholarship, Texas Tech University
