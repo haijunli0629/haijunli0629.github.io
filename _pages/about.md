@@ -17,6 +17,8 @@ Before joining UMD in 2022, I studied for two years in the Geosciences Doctoral 
 
 Updates
 ======
+* **Dec. 2025**: I successfully defended my Ph.D. dissertation! <i>"Advancing National-scale High-resolution Crop Mapping Using Remote Sensing"</i>.
+
 * **Nov. 2025**: I gave an oral presentation on <i>"Quantifying the Benefits of 10-m Crop Mapping for Industrial Agriculture Over the United States"</i> at the MAD-AAG 2025 conference in Arnold, MD, USA.
 
 * **Oct. 2025**: I am honored to receive the **Jacob K. Goldhaber Travel Grant** from the Graduate School at the University of Maryland.
