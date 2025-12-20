@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Estimating Long-Term Fractional Cover of Oil and Gas Well Pads in the Permian Basin Using Landsat Time Series (2000\u20132023)<br />; New Orleans, Louisiana, USA",
+    "Estimating Long-Term Fractional Cover of Oil and Gas Well Pads in the Permian Basin Using Landsat Time Series (2000-2023)<br />; New Orleans, Louisiana, USA",
     29.9559145,
     -90.0730259
   ],
