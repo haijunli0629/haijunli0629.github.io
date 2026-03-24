@@ -50,7 +50,7 @@ Teaching
   
 Honors and Awards
 =====
-* 2026, AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting in AAG Middle Atlantic Division
+* 2026, AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting, AAG Middle Atlantic Division
 * 2025, Jacob K. Goldhaber Travel Grant, University of Maryland.
 * 2024, Excellence in Graduate Research Award, 2nd place, University of Maryland
 * 2022, Study Abroad Competitive Scholarship, Texas Tech University
