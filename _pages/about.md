@@ -17,7 +17,7 @@ Before joining UMD in 2022, I studied for two years in the Geosciences Doctoral 
 
 Updates
 ======
-* **Mar. 2026**: My paper, *"Agricultural expansion and intensification in Brazil: A literature synthesis of dynamics, drivers, and implications"*, received the **2026 AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting** in AAG Middle Atlantic Division.
+* **Mar. 2026**: My paper, <a href="https://doi.org/10.31223/X5T76J" target="_blank" rel="noopener noreferrer">*"Agricultural expansion and intensification in Brazil: A literature synthesis of dynamics, drivers, and implications"*</a>, received the **2026 AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting** in AAG Middle Atlantic Division.
 
 * **Dec. 2025**: I presented my poster about oil and gas infrastructure monitoring from remote sensing in <i>AGU 2025</i> in New Orleans, LA, USA. <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937657" target="_blank" rel="noopener noreferrer">*"Estimating Long-Term Fractional Cover of Oil and Gas Well Pads in the Permian Basin Using Landsat Time Series (2000–2023)"*</a>
 
