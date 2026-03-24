@@ -17,9 +17,11 @@ Before joining UMD in 2022, I studied for two years in the Geosciences Doctoral 
 
 Updates
 ======
-* **Dec. 2025**: I presented my poster about oil and gas infrastructure monitoring from remote sensing in <i>AUG 2025</i> in New Orleans, LA, USA. <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937657" target="_blank" rel="noopener noreferrer">*"Estimating Long-Term Fractional Cover of Oil and Gas Well Pads in the Permian Basin Using Landsat Time Series (2000–2023)"*</a>
+* **Mar. 2026**: My paper, *"Agricultural expansion and intensification in Brazil: A literature synthesis of dynamics, drivers, and implications"*, received the **2026 AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting** in AAG Middle Atlantic Division.
 
-* **Dec. 2025**: I presented my poster about within-season crop mapping in <i>AUG 2025</i> in New Orleans, LA, USA. <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1905546" target="_blank" rel="noopener noreferrer">*"Progressive Early-Season Crop Mapping over the Contiguous United States Using Sentinel-2 Time Series and Historical Ground Data"*</a>
+* **Dec. 2025**: I presented my poster about oil and gas infrastructure monitoring from remote sensing in <i>AGU 2025</i> in New Orleans, LA, USA. <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937657" target="_blank" rel="noopener noreferrer">*"Estimating Long-Term Fractional Cover of Oil and Gas Well Pads in the Permian Basin Using Landsat Time Series (2000–2023)"*</a>
+
+* **Dec. 2025**: I presented my poster about within-season crop mapping in <i>AGU 2025</i> in New Orleans, LA, USA. <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1905546" target="_blank" rel="noopener noreferrer">*"Progressive Early-Season Crop Mapping over the Contiguous United States Using Sentinel-2 Time Series and Historical Ground Data"*</a>
 
 * **Dec. 2025**: I successfully defended my Ph.D. dissertation! <i>"Advancing National-scale High-resolution Crop Mapping Using Remote Sensing"</i>.
 
@@ -29,17 +31,17 @@ Updates
   
 * **Feb. 2025**: My co-authored paper about machine learnning in crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2024.114585" target="_blank" rel="noopener noreferrer">*"Accounting for spatial variability with geo-aware random forest: A case study for US major crop mapping"*</a>
 
-* **Dec. 2024**: My poster about 10-m crop mapping over the United States was presented in <i>AUG 2024</i> in Washington, D.C., USA. <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1576265" target="_blank" rel="noopener noreferrer">*"Advancing 10-m Crop Mapping Using All Sentinel-2 Observations over the Contiguous United States"*</a>
+* **Dec. 2024**: My poster about 10-m crop mapping over the United States was presented in <i>AGU 2024</i> in Washington, D.C., USA. <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1576265" target="_blank" rel="noopener noreferrer">*"Advancing 10-m Crop Mapping Using All Sentinel-2 Observations over the Contiguous United States"*</a>
 
 * **Oct. 2024**: I successfully defended my dissertation proposal.
 
 * **May. 2024**: I am honored to receive the **Excellence in Graduate Research Award (2nd place)** for outstanding performance as a graduate student in the Department of Geographical Sciences at UMD.
 
-* **Dec. 2023**: I presented my poster about continental-scal high-resolution crop mapping over the North America in <i>AUG 2023</i> in San Franscico, CA, USA. <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1305161" target="_blank" rel="noopener noreferrer">*"10-m Crop Mapping Using Satellite Data, Field Survey and Machine Learning over North America"*</a>
+* **Dec. 2023**: I presented my poster about continental-scal high-resolution crop mapping over the North America in <i>AGU 2023</i> in San Franscico, CA, USA. <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1305161" target="_blank" rel="noopener noreferrer">*"10-m Crop Mapping Using Satellite Data, Field Survey and Machine Learning over North America"*</a>
 
 * **May. 2023**: My first-author paper about smallholder crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2023.113623" target="_blank" rel="noopener noreferrer">*"Development of a 10-m resolution maize and soybean map over China: Matching satellite-based crop classification with sample-based area estimation"*</a>
 
-* **Dec. 2022**: I gave an oral presentation about 10-m crop mapping in China in <i>AUG 2022</i> in Chicago, IL, USA. <a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1079673" target="_blank" rel="noopener noreferrer">*"Development of a 10 m Resolution Maize and Soybean Map Over China"*</a>
+* **Dec. 2022**: I gave an oral presentation about 10-m crop mapping in China in <i>AGU 2022</i> in Chicago, IL, USA. <a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1079673" target="_blank" rel="noopener noreferrer">*"Development of a 10 m Resolution Maize and Soybean Map Over China"*</a>
 
 * **Nov. 2022**: My co-authored paper about long-terrm soybean yield modeling is published online on <i>Agricultural and Forest Meteorology</i>. <a href="https://doi.org/10.1016/j.agrformet.2022.109186" target="_blank" rel="noopener noreferrer">*"Annual 30 m soybean yield mapping in Brazil using long-term satellite observations, climate data and machine learning"*</a>
 
