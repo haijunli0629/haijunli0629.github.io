@@ -6,7 +6,7 @@ permalink: /publications/2026-03-EarthArXiv
 excerpt: ''
 date: 2026-03-24
 venue: 'EarthArXiv'
-paperurl: 'http://haijunli0629.github.io/files/2025-03-RSE.pdf'
+paperurl: 'http://haijunli0629.github.io/files/2026-03-EarthArXiv.pdf'
 citation: '<b>Li, H.</b> (2026). Agricultural expansion and intensification in Brazil: A literature synthesis of dynamics, drivers, and implications. <i>EarthArXiv</i>, https://doi.org/10.31223/X5T76J'
 ---
 
