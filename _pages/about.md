@@ -13,10 +13,11 @@ My research interests focus on agricultural sustainability monitoring using sate
 
 Before joining UMD in 2022, I studied for two years in the Geosciences Doctoral program at <a href="https://www.depts.ttu.edu/geosciences/" target="_blank" rel="noopener noreferrer">Texas Tech University</a>. Prior to my Ph.D. journeys abroad, I worked for three years as a senior software engineer at <a href="https://ir.netease.com/" target="_blank" rel="noopener noreferrer">NetEase, Inc.</a> in China. I obtained my M.S. in Cartography and Geography Information System in 2017, from the <a href="http://www.lmars.whu.edu.cn/en/#" target="_blank" rel="noopener noreferrer">State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing</a>, Wuhan University, where I worked with <a href="http://www.lmars.whu.edu.cn/prof_web/Chsite/english.htm" target="_blank" rel="noopener noreferrer">Dr. Xiaoling Chen</a> on environmental remote sensing, especially in water environments. I received my B.S. in Geographic Information System in 2014 from the <a href="https://sres.whu.edu.cn/English/About/Overview.htm" target="_blank" rel="noopener noreferrer">School of Resource and Environmental Sciences (SRES)</a>, Wuhan University.
 
-
-
 Updates
 ======
+
+* **Mar. 2026**: My first-author paper about high-resolution crop mapping in the United States is published on <i>Earth System Science Data</i>. <a href="https://doi.org/10.5194/essd-18-2227-2026" target="_blank" rel="noopener noreferrer">*"An accurate 10 m annual crop map product of maize and soybean across the United States"*</a>
+ 
 * **Mar. 2026**: My paper, <a href="https://doi.org/10.31223/X5T76J" target="_blank" rel="noopener noreferrer">*"Agricultural expansion and intensification in Brazil: A literature synthesis of dynamics, drivers, and implications"*</a>, received the **2026 AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting** in AAG Middle Atlantic Division.
 
 * **Dec. 2025**: I presented my poster about oil and gas infrastructure monitoring from remote sensing in <i>AGU 2025</i> in New Orleans, LA, USA. <a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1937657" target="_blank" rel="noopener noreferrer">*"Estimating Long-Term Fractional Cover of Oil and Gas Well Pads in the Permian Basin Using Landsat Time Series (2000–2023)"*</a>
@@ -29,7 +30,7 @@ Updates
 
 * **Oct. 2025**: I am honored to receive the **Jacob K. Goldhaber Travel Grant** from the Graduate School at the University of Maryland.
   
-* **Feb. 2025**: My co-authored paper about machine learnning in crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2024.114585" target="_blank" rel="noopener noreferrer">*"Accounting for spatial variability with geo-aware random forest: A case study for US major crop mapping"*</a>
+* **Feb. 2025**: My co-authored paper about machine learnning in crop mapping is published on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2024.114585" target="_blank" rel="noopener noreferrer">*"Accounting for spatial variability with geo-aware random forest: A case study for US major crop mapping"*</a>
 
 * **Dec. 2024**: My poster about 10-m crop mapping over the United States was presented in <i>AGU 2024</i> in Washington, D.C., USA. <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1576265" target="_blank" rel="noopener noreferrer">*"Advancing 10-m Crop Mapping Using All Sentinel-2 Observations over the Contiguous United States"*</a>
 
@@ -39,11 +40,11 @@ Updates
 
 * **Dec. 2023**: I presented my poster about continental-scal high-resolution crop mapping over the North America in <i>AGU 2023</i> in San Franscico, CA, USA. <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1305161" target="_blank" rel="noopener noreferrer">*"10-m Crop Mapping Using Satellite Data, Field Survey and Machine Learning over North America"*</a>
 
-* **May. 2023**: My first-author paper about smallholder crop mapping is published online on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2023.113623" target="_blank" rel="noopener noreferrer">*"Development of a 10-m resolution maize and soybean map over China: Matching satellite-based crop classification with sample-based area estimation"*</a>
+* **May. 2023**: My first-author paper about smallholder crop mapping is published on <i>Remote Sensing of Environment</i>. <a href="https://doi.org/10.1016/j.rse.2023.113623" target="_blank" rel="noopener noreferrer">*"Development of a 10-m resolution maize and soybean map over China: Matching satellite-based crop classification with sample-based area estimation"*</a>
 
 * **Dec. 2022**: I gave an oral presentation about 10-m crop mapping in China in <i>AGU 2022</i> in Chicago, IL, USA. <a href="https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1079673" target="_blank" rel="noopener noreferrer">*"Development of a 10 m Resolution Maize and Soybean Map Over China"*</a>
 
-* **Nov. 2022**: My co-authored paper about long-terrm soybean yield modeling is published online on <i>Agricultural and Forest Meteorology</i>. <a href="https://doi.org/10.1016/j.agrformet.2022.109186" target="_blank" rel="noopener noreferrer">*"Annual 30 m soybean yield mapping in Brazil using long-term satellite observations, climate data and machine learning"*</a>
+* **Nov. 2022**: My co-authored paper about long-terrm soybean yield modeling is published on <i>Agricultural and Forest Meteorology</i>. <a href="https://doi.org/10.1016/j.agrformet.2022.109186" target="_blank" rel="noopener noreferrer">*"Annual 30 m soybean yield mapping in Brazil using long-term satellite observations, climate data and machine learning"*</a>
 
 
 
