@@ -363,3 +363,26 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+a {
+  color: #0000FF;          // normal link color
+  text-decoration: none !important;   // optional
+}
+
+a:hover,
+a:focus {
+  color: #ff9966;          // hover color
+  text-decoration: underline !important; // optional
+}
+
+
+/* Dark mode override */
+[data-theme="dark"] a {
+  color: #66b2ff;   // lighter blue for dark background
+}
+
+[data-theme="dark"] a:hover,
+[data-theme="dark"] a:focus {
+  color: #ff9966;
+  text-decoration: underline !important; // optional
+}

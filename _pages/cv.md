@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Geographical Sciences, University of Maryland, 2025 (expected)
+* Ph.D. in Geographical Sciences, University of Maryland, 2026
 * Ph.D. in Geosciences, Texas Tech University, 2020-2022 (transferred)
 * M.S. in Cartography and Geographical Information System, Wuhan University, 2017
 * B.S. in Geographical Information System, Wuhan University, 2014
