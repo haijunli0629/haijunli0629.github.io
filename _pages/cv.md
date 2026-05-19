@@ -50,9 +50,11 @@ Teaching
   
 Honors and Awards
 =====
-* 2026, AAG Council Award for an Outstanding Undergraduate and Graduate Student Paper at a Regional Meeting, AAG Middle Atlantic Division
+* 2026, Dr. Jingli Yang and Dr. Peter Li Endowed Distinguished Fellowship, University of Maryland
+* 2026, Excellence in Graduate Research Award (1st place), University of Maryland
+* 2026, AAG Council Award for Best Graduate Student Paper at a Regional Division Meeting for the Mid-Atlantic Division
 * 2025, Jacob K. Goldhaber Travel Grant, University of Maryland.
-* 2024, Excellence in Graduate Research Award, 2nd place, University of Maryland
+* 2024, Excellence in Graduate Research Award (2nd place), University of Maryland
 * 2022, Study Abroad Competitive Scholarship, Texas Tech University
 * 2022, Gary Elbow Scholarship, Texas Tech University
 * 2021, Geography Excellence Scholarship, Texas Tech University
