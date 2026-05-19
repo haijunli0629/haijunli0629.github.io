@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* 2022/08 - present: Graduate Research Assistant, University of Maryland, College Park, USA
+* 2026/05 - present: Postdoctoral Associate, University of Maryland, College Park, USA
+* 2022/08 - 2026/05: Graduate Research Assistant, University of Maryland, College Park, USA
 * 2020/08 - 2022/08: Graduate Research Assistant, Texas Tech University, Lubbock, USA
 * 2017/07 - 2020/06: Senior Software Engineer, NetEase Network Co. Ltd., Hangzhou, China
 * 2016/08: Intern of Software Engineer, Fiberhome Technologies Co. Ltd., Wuhan, China
