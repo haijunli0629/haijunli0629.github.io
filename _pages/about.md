@@ -19,7 +19,7 @@ Updates
 
 * **May. 2026**: I was honored to receive the **Dr. Jingli Yang and Dr. Peter Li Endowed Distinguished Fellowship** from the Department of Geographical Sciences at UMD.
  
-* **May. 2024**: I was honored to receive the **Excellence in Graduate Research Award (1st place)** for outstanding performance as a graduate student in the Department of Geographical Sciences at UMD.
+* **May. 2026**: I was honored to receive the **Excellence in Graduate Research Award (1st place)** for outstanding performance as a graduate student in the Department of Geographical Sciences at UMD.
 
 * **Mar. 2026**: My first-author paper about high-resolution crop mapping in the United States is published on <i>Earth System Science Data</i>. <a href="https://doi.org/10.5194/essd-18-2227-2026" target="_blank" rel="noopener noreferrer">*"An accurate 10 m annual crop map product of maize and soybean across the United States"*</a>
  
